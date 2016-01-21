@@ -2,6 +2,6 @@ bot_name: "version_check_man"
 icon_emoji: ":ok_woman:"
 message_text: "Google Play Review:"
 web_hook_uri: "<SET YOUR SLACK WEB HOOK URL>"
-app_id: "<SET YOUR Google Play App Id"
+google_play_id: "<SET YOUR GOOGLE PLAY ID>"
+app_store_id: "<SET YOUR APP STORE ID>"
 db_path: "/tmp/review_db"
-review_count: 5
